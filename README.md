@@ -38,10 +38,6 @@ python resume_builder.py
 
 ## Screenshots
 
-![Screenshot (6)](https://github.com/Malathiakula/Resume-Builder/assets/140947309/cab909f1-9d22-4b18-b535-f4b9de3c9db7)
-![Screenshot (7)](https://github.com/Malathiakula/Resume-Builder/assets/140947309/d47fcf9c-e7da-4fd5-abfa-0e8afe72dac4)
-
-
 
 ## Contributing
 
